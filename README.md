@@ -1,4 +1,5 @@
-<div align="center"><img width="967" height="691" alt="image" src="https://github.com/user-attachments/assets/25fe06c7-e42f-4b1a-bd3d-7a8b4056b086" />
+<div align="center"><img width="984" height="705" alt="image" src="https://github.com/user-attachments/assets/3b4493ac-1cb2-4447-9973-b70fcf1fcb0d" />
+
 </div>
 
 # Run and deploy your AI Studio app
