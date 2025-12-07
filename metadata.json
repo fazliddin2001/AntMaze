@@ -1,0 +1,5 @@
+{
+  "name": "AntMaze",
+  "description": "A 2D maze game where you guide an ant to its home, collecting fruit along the way. Features dynamic maze generation and efficiency scoring.",
+  "requestFramePermissions": []
+}
